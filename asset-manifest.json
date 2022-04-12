@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cryptex_code/static/css/main.948fbdbf.css",
+    "main.css": "/cryptex_code/static/css/main.c49bfd8a.css",
     "main.js": "/cryptex_code/static/js/main.29deb674.js",
     "static/js/787.b411915b.chunk.js": "/cryptex_code/static/js/787.b411915b.chunk.js",
     "static/media/map.jpg": "/cryptex_code/static/media/map.4f0e475454f9c8426e06.jpg",
     "index.html": "/cryptex_code/index.html",
-    "main.948fbdbf.css.map": "/cryptex_code/static/css/main.948fbdbf.css.map",
+    "main.c49bfd8a.css.map": "/cryptex_code/static/css/main.c49bfd8a.css.map",
     "main.29deb674.js.map": "/cryptex_code/static/js/main.29deb674.js.map",
     "787.b411915b.chunk.js.map": "/cryptex_code/static/js/787.b411915b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.948fbdbf.css",
+    "static/css/main.c49bfd8a.css",
     "static/js/main.29deb674.js"
   ]
 }
