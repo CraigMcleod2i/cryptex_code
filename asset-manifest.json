@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptex_code/static/css/main.175ab8cf.css",
+    "main.js": "/cryptex_code/static/js/main.54192211.js",
+    "static/js/787.b411915b.chunk.js": "/cryptex_code/static/js/787.b411915b.chunk.js",
+    "index.html": "/cryptex_code/index.html",
+    "main.175ab8cf.css.map": "/cryptex_code/static/css/main.175ab8cf.css.map",
+    "main.54192211.js.map": "/cryptex_code/static/js/main.54192211.js.map",
+    "787.b411915b.chunk.js.map": "/cryptex_code/static/js/787.b411915b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.175ab8cf.css",
+    "static/js/main.54192211.js"
+  ]
+}
